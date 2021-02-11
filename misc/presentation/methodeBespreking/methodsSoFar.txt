@@ -1,0 +1,21 @@
+Meet & Move
+
+Aanpak:
+Eerst methoden, dan data transport
+
+@img/requirementsTable.png
+
+@img/voornadelen.png
+
+Afwegingen:
+- Kosten (goedkoop) -> Bluetooth+WiFi
+- Nauwkeurigheid -> Camera
+- Gemak -> Camera
+- Iedereen? -> Camera
+- Uitbreiding -> Camera
+- Onderscheid persoon? -> Bluetooth+WiFi
+
+Activiteit:
+- Lopen, hardlopen & fietsen -> snelheid
+- Ontmoeten, spelen -> nauwkeurige locatie
+- Sporten -> object detectie

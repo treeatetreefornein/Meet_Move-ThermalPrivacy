@@ -1,0 +1,219 @@
+#▶🌕⏺⭕©⚪⚫🔶🔷👁
+#💾🔶🚲🛹🎾🏸⚽⏲
+
+M&M
+
+▶   Inhoud
+- Project
+- Road to prototype
+- Technologie
+
+##################################################################
+# OPDRACHT
+##################################################################
+
+▶   Doel
+Activiteits bepaling in de openbare ruimte
+
+### Waarom? ###
+
+@img/intro/xtremePlayground.jpg
+
+@img/intro/crapPlayground.png
+
+▶   Activiteiten
+🚶🏃🚲🔰
+👫⚽ Hot-spots
+...
+
+@img/intro/locations.png
+
+=> 🔋📡
+
+☀🌒 ⛈🌫
+
+▶  Bestaande Toepassingen
+
+@img/existing/antwerpen.jpg
+
+@img/existing/china.jpg
+
+##################################################################
+# PROTOTYPE
+##################################################################
+
+▶  Systeem
+
+@img/intro/systemOverview.png
+
+@img/result/heatmap.png
+
+@img/location/location.png
+
+@img/location/rfidtag.png
+
+# Radar
+
+@img/radar/peopleradar.png
+
+@img/radar/radarDecoy.png
+
+LIDAR
+
+@img/lidar/lidarsensor.png
+
+@img/lidar/lidarCar.jpeg
+
+@img/lidar/lidarvegetation.jpg
+
+@img/lidar/muskyCEO.png
+
+@img/lidar/lidarwind.png
+#   => Extra sensoren (diff from car) ~Accelerometer
+
+###############################################################################################
+▶   Camera
+
+@img/camera/axis.jpeg
+
+Machine Learning:
+"Field of study that gives computers the ability to 
+learn without being explicitly programmed." 
+- Arthur Samuel (1959)
+
+People Tracking/Pose Estimation
+
+@img/ml/openPoseStatue.png
+
+@img/ml/performance.png
+
+Depth Estimation
+1. M.L.
+2. Handmatig
+    ...
+
+@img/location/homography.png
+
+@img/ml/25d.png
+
+Stereo
+
+@img/camera/zed-2.jpg
+
+### IR
+
+@img/camera/eightletters.png
+
+@img/camera/A-IR.jpg
+
+- ~15m 's Nachts
+- Uitbreidbaar
+#   => Zichtbaar telefoon
+
+@img/camera/irReflectionGlare.png
+
+### PIR
+
+@img/camera/PIRCam.png
+
+@img/camera/infraredvegetation.jpeg
+
+@img/camera/passivesmoke.jpeg
+
+### Fusion
+
+@img/camera/fusion.jpeg
+
+▶   Uniek Persoon
+Gezichts Herkenning: min. 80px, voldoende belicht, front-shot
+
+# Locatie
+WiFi/Bluetooth 
+- Positie
+- Uniek Persoon
+
+@img/bluetooth/blepos.png
+
+@img/bluetooth/blemodule.jpg
+
+@img/bluetooth/ironman.png
+
+▶   Image Classification
+🚲🛹🎾🏸⚽
+
+@img/ml/lidarlabel.png
+
+@img/ml/pointnet.png
+
+@img/ml/ic.png
+
+@img/ml/icFail.png
+
+@img/ml/pixelattack.png
+
+@img/ml/dog.png
+
+@img/ml/cat.png
+
+### Transmissie ###
+
+▶   Data Transmissie
+Robust
+Power Efficient
+Two-way
+
+▶   1080p@30fps = 3-6Mb/s
+LORA (81kb/dag)
+4/5G (15Mb/s / 180Mb/s)
+Ethernet
+Radio AM/FM (20kb/s 75kb/s)
+
+##################################################################
+# Conclusie
+##################################################################
+
+@img/conclusion/systemSketch.png
+
+Max data, min transmissie
+    - Timed record
+    - Camera => Upscale
+
+@img/ml/neuralenhance.png
+
+### Security ###
+▶   🔒 Privacy
+~Wetgeving: Opgeslagen data onherleidbaar tot persoon
+=> Video verwijderen
+
+##################################################################
+# Data
+##################################################################
+
+▶   Data Processing
+Flexibel
+Scalable
+
+@img/hardware/1080ti2080.png
+
+#IMAGES
+
+Openstaand:
+- Stationaire camera?
+- Leeftijd
+
+#Load balance 
+
+@img/hardware/jetson.png
+
+@img/conclusion/tbls.png
+
+@img/conclusion/overview.png
+
+Demo!
+
+@img/ml/python.png
+
+@img/software/docker.png
+
+The End,
+Vragen?

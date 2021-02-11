@@ -1,0 +1,8 @@
+%T Calibration Module
+%Q OpenPose
+%O https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/advanced/calibration_module.md
+
+%T Dissecting the Camera Matrix, Part 2: The Extrinsic Matrix
+%A Kyle Simek
+%D 2012-08-22
+%O https://ksimek.github.io/2012/08/22/extrinsic/

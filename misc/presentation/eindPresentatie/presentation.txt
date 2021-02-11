@@ -1,0 +1,126 @@
+    - Meet & Move -
+Public Space Insights
+
+ Inhoud
+Bedrijf
+Opdracht
+Verwerking
+Conclusie
+
+@img/innosportlabFavProjects.png
+
+#Opdracht
+
+@img/xtremePlayground.jpg
+
+@img/soccerLabel.png
+
+虜
+
+@img/Usage-theekan.png
+#@img/projectPlan.png
+
+❌    🤓
+✔    🚶
+✔    📏
+
+@img/3methoden.png
+
+❌   🤓 in 
+
+@img/4faces.jpg
+
+# Aanleiding
+ﮧ     ⇒ $$$ ⏰
+  ⇒ $$$ 
+
+Opdracht:
+⇒   1) Simuleer
+      2) Pose Estimation + Anoniem?
+
+# Camera's
+🎥
+
+@img/irCamera.jpg
+
+@img/flirCameraMotor.jpg
+
+@img/infraredvegetation.jpeg
+
+@img/passivesmoke.jpeg
+
+ Verwerking
+ Anonimisering FLIR
+    1) Digitization
+
+@img/digitizationGraph.png
+
+@img/digitizationProcess.png
+
+@img/exposureTime.jpg
+
+# TODO add image
+@img/tvNoise.jpg
+
+@img/anonDemo.jpg
+
+ Pose
+
+@img/performance.png
+
+@img/dockerOutOfMemory.png
+
+    
+
+@img/colab.png
+
+@img/openPoseOutput.jpg
+
+Effect Anonimisering Pose Estimation?
+
+#@img/poseBerekenen.png
+@img/poseVerifier.png
+
+ Resultaten
+
+#@img/gemiddeldAlles.png
+@img/2gemiddeldAlles.png
+
+@img/lichaamsdeelVerschil.png
+
+@img/lichaamsdeelMissing.png
+
+ Conclusie
+Beste methode voor Pose Estimation?
+
+❌Exposure Time
+    Motionblur  🎾
+
+@img/shutterspeed.jpg
+
+❌Noise
+    ⇒ Minder details op afstand 
+
+@img/privacyCamera.png
+
+@img/noiseGezicht.png
+
+✔ Digitization
+
+ Uitdagingen
+* Snelheid
+
+@img/calcdistance.png
+
+ Advies
+Verbeter betrouwbaarheid tests: 
+    •    
+    • Close-ups gezicht
+
+    • Limiet afstand pose herkenning
+        (Alphapose?)
+    • Bewegende camera: liever niet
+
+@img/demo.png
+
+Vragen?

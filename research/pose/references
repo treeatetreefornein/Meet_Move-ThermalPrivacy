@@ -1,0 +1,24 @@
+//Train, setup & use
+https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/
+//Depth estimation
+https://github.com/ArpitaSTugave/Depth-Estimation-using-CNN
+//Ranking list papers pose estimation
+https://paperswithcode.com/task/3d-human-pose-estimation
+//3d Pose Estimation Guide
+https://nanonets.com/blog/human-pose-estimation-3d-guide/
+//2d->3d    Results show activities!?!?!?!
+https://arxiv.org/pdf/1612.06524.pdf
+//3d position
+https://www.politesi.polimi.it/handle/10589/141805?mode=full&submit_simple=Show+full+thesis+record
+//Openpose optimize speed
+https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/speed_up_openpose.md
+
+//Part of book: AI security 3d pos
+https://books.google.nl/books?id=xEGjDwAAQBAJ&pg=PA467&lpg=PA467&dq=person+3d+position+estimation+2d+image&source=bl&ots=_7BdwELG3L&sig=ACfU3U1Z4-OMKuJlWMSy71zSoc1x0pHF4Q&hl=nl&sa=X&ved=2ahUKEwjqkuqywfHnAhVK2KQKHa7ZA-IQ6AEwE3oECAwQAQ#v=onepage&q=person%203d%20position%20estimation%202d%20image&f=false
+
+//Position
+%T Three-Dimensional Positioning System Using Bluetooth Low-Energy Beacons
+%D 2016-10-04
+%A Hyunwook Park
+%K bluetoothposition
+%O https://journals.sagepub.com/doi/full/10.1177/1550147716671720

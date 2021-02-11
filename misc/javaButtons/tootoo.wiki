@@ -1,0 +1,10 @@
+- List Serial ports instead via ~PrintArray()
+- Simple pulling
+- https://discourse.processing.org/t/try-catch-with-serial/1148/5
+=> try {
+	Serial serial = new Serial(this, “/dev/ttyACM0”, 19200);
+	receiver = new ValueReceiver(this, serial);
+}
+	catch (Exception e) {
+	e.printStackTrace();
+}

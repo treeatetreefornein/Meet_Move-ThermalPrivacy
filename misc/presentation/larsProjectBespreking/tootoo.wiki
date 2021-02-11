@@ -1,0 +1,44 @@
+= Vorig Project/Doel =
+* Ondersteun PCB maker
+    => Nuttig? Verschil communicatie tussen camera's
+* Exclusief Digitization
+
+= Meet & Move =
+* Thermische camera pose estimation?
+* Fontys: pose moeite thermische camera
+ 
+= Privacy Pose =
+* Voordelen: 
+    1. Gebruik FLIR & AMG
+    2. Inzicht thermische camera's
+    3. Testen privacy-pose verhouding
+* Antwoord op vragen:
+    - Kan privacy + pose?
+    - Optimale privacy (parameters: digi., expo. & noise) voor pose (confidence)
+    - Gewenste resolutie (afstand invloed temperatuur)
+    - Privacy toepassing verschil camera's
+* Releases:
+    1 AMG8833 pas privacy toe
+    2 Video bestand privacy
+    3 FLIR privacy
+    4 Pose verifireren
+* Demo:
+    - Privacy simulator beelden
+    - AMG8833 verwijdert menselijke temperatuur zones webcam
+
+= Resultaat =
+* Anonimiseer beelden internet, thermische camera, 
+
+Toepassing          | Resolutie | Digitization | Exposure | Noise | Combinatie
+Pose zonder privacy |
+Afwijking pose      |   2%      | 5%            | 10%
+
+=> 
+* Invloed privacy op pose
+* Webcam + FLIR => correcte pose Fontys groep
+
+= Freddy =
+* Software focus:
+    * Output vergelijken Openpose
+    * Realtime video parsing (foto + video)
+* Genoeg hardware? AMG8833 controller Arduino -> STM

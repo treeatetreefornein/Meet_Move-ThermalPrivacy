@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/rsk/bhdd/school/meetMove/repo/meetAndMove/code/privacy/videoAnonimisation/build",
+  "command": "/usr/bin/c++  -I/home/rsk/bhdd/school/meetMove/repo/meetAndMove/code/privacy/videoAnonimisation/src -isystem /usr/include/opencv4 -Wall -Wextra -pedantic -ggdb -O0 -std=c++17 -Iproduct -o CMakeFiles/thermalAnonimisation.dir/src/main.cpp.o -c /home/rsk/bhdd/school/meetMove/repo/meetAndMove/code/privacy/videoAnonimisation/src/main.cpp",
+  "file": "/home/rsk/bhdd/school/meetMove/repo/meetAndMove/code/privacy/videoAnonimisation/src/main.cpp"
+},
+{
+  "directory": "/home/rsk/bhdd/school/meetMove/repo/meetAndMove/code/privacy/videoAnonimisation/build",
+  "command": "/usr/bin/c++  -I/home/rsk/bhdd/school/meetMove/repo/meetAndMove/code/privacy/videoAnonimisation/src -isystem /usr/include/opencv4 -Wall -Wextra -pedantic -ggdb -O0 -std=c++17 -Iproduct -o CMakeFiles/thermalAnonimisation.dir/src/anonimize.cpp.o -c /home/rsk/bhdd/school/meetMove/repo/meetAndMove/code/privacy/videoAnonimisation/src/anonimize.cpp",
+  "file": "/home/rsk/bhdd/school/meetMove/repo/meetAndMove/code/privacy/videoAnonimisation/src/anonimize.cpp"
+},
+{
+  "directory": "/home/rsk/bhdd/school/meetMove/repo/meetAndMove/code/privacy/videoAnonimisation/build",
+  "command": "/usr/bin/c++  -I/home/rsk/bhdd/school/meetMove/repo/meetAndMove/code/privacy/videoAnonimisation/src -isystem /usr/include/opencv4 -Wall -Wextra -pedantic -ggdb -O0 -std=c++17 -Iproduct -o CMakeFiles/thermalAnonimisation.dir/src/SimplexNoise.cpp.o -c /home/rsk/bhdd/school/meetMove/repo/meetAndMove/code/privacy/videoAnonimisation/src/SimplexNoise.cpp",
+  "file": "/home/rsk/bhdd/school/meetMove/repo/meetAndMove/code/privacy/videoAnonimisation/src/SimplexNoise.cpp"
+}
+]

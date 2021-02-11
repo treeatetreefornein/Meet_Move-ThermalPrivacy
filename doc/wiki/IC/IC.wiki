@@ -1,0 +1,30 @@
+? Switch to PCB building?:
+* https://www.autodesk.com/solutions/pcb-design-software)
+* https://learn.sparkfun.com/tutorials/pcb-basics/all
+* IC design! https://wiki.analog.com/university/courses/tutorials/index
+= Components =
+* Digital to Analog ~multiplexer?: https://www.circuitstoday.com/digital-to-analog-converters-da
+* Comparators: https://www.electronicshub.org/digital-comparator-and-magnitude-comparator/
+
+= IDE =
+* Thread: https://electronics.stackexchange.com/questions/24184/free-ide-for-vhdl-and-verilog
+* Web: https://www.edaplayground.com/
+* https://sites.google.com/site/svedvkit
+* http://zamiacad.sourceforge.net/web/
+* https://www.aldec.com/students/student.php?id=4
+* https://www.sigasi.com/
+* http://www.vide-software.at/
+* https://www.xilinx.com/support/download.html
+* https://www.sigasi.com/
+* https://www.mentor.com/products/ic_nanometer_design//
+
+= Coding =
+* https://en.wikibooks.org/wiki/Programmable_Logic/Verilog_RTL_Coding_Guidelines
+
+= Workflow Overview =
+* https://www.youtube.com/watch?v=cIlwGFcDLhI
+
+= VHDL =
+* Tutorial: https://www.mepits.com/tutorial/143/vlsi/hardware-description-language
+* VHDL to PCB: http://pepijndevos.nl/2019/07/18/vhdl-to-pcb.html
+* Netlist Gen: http://www.clifford.at/yosys/screenshots.html

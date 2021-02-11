@@ -1,0 +1,63 @@
+//Required for router settings: password changing - possible IR controls (important for testing)
+
+Login:
+First thought Digest Access Authentication
+According to the datasheet it's Extensible Authentication Protocol (TLS varient)
+=> Client side certificate is vereist
+-> Als het de authentication correct gegokt wordt, is de username + het wachtwoord niet af te leiden.
+
+-------------------------------------------------------------------------------------------
+Network:
+Uses address range 169.254.0.0/16
+Ignores DHCP server
+Gebruikt IPv4 en IPv6 tegelijkertijd
+
+Datasheet:
+https://www.axis.com/files/manuals/um_q6035e_46632_en_1206.pdf
+
+Autotracking Configuration Guide:
+https://www.axis.com/files/manuals/AXIS_PTZ_Autotracking_configurationhelp.pdf
+
+Other Docs:
+https://www.axis.com/en-us/products/axis-q6035-e/support-and-documentation
+
+Specs:
+- 20x zoom
+- Low res
+
+-------------------------------------------------------------------------------------------
+Authentication:
+//Actually probably not: Digest Access Authentication:
+https://www.directdefense.com/multiple-nonce-one-time-token-value-tracking-burp-extender/
+
+Extensible Access Authentication 
+    (perhaps only used for WiFi (WPA2) related?)
+=> Client Key + Password + Username + Server Key -> login
+No spoofing possible? No dictionary attack w/o client  
+Key + rest guess => not reusable
+
+Questions:
+    - First time client key obtaining?
+
+Script/C++/C on Windows/Linux
+
+-------------------------------------------------------------------------------------------
+Potential: 2 minute ARP/Ping startup address assignment
+Android 5-7 Known weaknesses? Standard root faster?
+Restore software version?
+Other interface?
+Spoof as central camera server?
+
+-------------------------------------------------------------------------------------------
+Todo:
+Check discontinue support date
+Fix other Axis cameras
+
+-------------------------------------------------------------------------------------------
+LOGIN:
+- uname: root
+- pswd: CD4A13AE1762
+
+-------------------------------------------------------------------------------------------
+Records 1080p @ 25fps
+        720p @ 50fps

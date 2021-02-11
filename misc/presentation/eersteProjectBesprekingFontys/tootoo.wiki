@@ -1,0 +1,16 @@
+* New focus ~ Fontys groep pose, me optimize pose~privacy
+    => Andere taal, VHDL, python weg?
+* Leerdoelen: Communicatie+desc, talen
+* Aantonen/Testing
+* Afspraken:
+    * Wekelijks meeten Lars
+    * Logboeken: vrijdag, woensdag
+* Misc:
+    * Repo merge
+* Bezigheden:
+    * MicroCap12, Logisim (digital only)
+    * I2C decode
+    * Dynamic temperature compare (tuning)
+    * Camera vinden (noise support, open software voor firmware mods, propper readout)
+* Test:
+    * Lens AMG8833

@@ -1,0 +1,75 @@
+= Dataset =
+* OTCBVS Benchmark Dataset Collection: http://vcipl-okstate.org/pbvs/bench/
+* FLIR: https://www.flir.com/oem/adas/adas-dataset-form/
+
+= GY-AMG8833 =
+== Questions ==
+* Controll how?
+* Data Rx:
+    * Speed
+    * What data is sent?    => I2C
+* Apply privacy:
+    * PCB designing (EDA)
+    * PCB debugging (breadboard/Perma-Proto?)
+== PCB ==
+* I2C decode:
+    * Write Clock Detect
+    * Decode temperature
+
+== Specs ==
+* Detect human @ 7m
+* 10Hz
+* Accuracy +- 2.5*C
+* 3.3V or 5V w/ built-in regulator
+* Optional interrupt when pixel goes above threshold
+* Only bottom strip is connected, top one for stability
+
+== Tootoo ==
+* Test Arduino libraries
+* Convert pixel array to image
+* DOC:
+    * Codex: https://www.fourcc.org/codecs.php
+
+== Toepassing ==
+=== Privacy ===
+* Digitization:
+    * AMG output is digitaal, maak analoog?
+    * Gewoonlijk dat top tier camera's op analoge wijze pixel readout schrijven? ~gok ja?..... mmmmm i2c no
+* Noise:
+    * 1x Zelfgemaakte bolometer, minder noise control OF D to A
+    * (Digitaal) Flip rnd bit (kan groot verschil zijn in 8x8!)
+    * Simuleer
+* Exposure:
+    * Geen setting voor AMG8833
+    * Bouw counter w/ memory
+=== PCB ===
+* https://www.tutorialspoint.com/computer_logical_organization/logic_gates.htm
+* https://circuitverse.org/simulator
+* https://easyeda.com/
+* https://www.tinycad.net/ - Drawing Circuits Windows
+* https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html# - Windows+Mac
+* https://www.circuitlab.com/editor/#?id=7pq5wm&from=homepage - online
+* Qucs
+* EasyEDA
+=> 
+* https://kicad-pcb.org/ - Open Source (Only Drawing!)
+* http://www.spectrum-soft.com/download/download.shtm - Windows, went free
+* Logisim
+=== VHDL ===
+* https://edaplayground.com - Online VHDL code
+* https://mentor.com        - Industry level
+=> Learn logic gates || Learn logic programming & generate PCB
+
+== Resources ==
+* Code:         https://github.com/adafruit/Adafruit_AMG88xx
+* Datasheet:    https://cdn-learn.adafruit.com/assets/assets/000/043/261/original/Grid-EYE_SPECIFICATIONS(Reference).pdf?1498680225
+=== I2C ===
+* https://mcuoneclipse.com/2019/05/26/reverse-engineering-of-a-not-so-secure-iot-device/
+* https://rheingoldheavy.com/i2c-signal-reverse-engineering/
+* https://electronics.stackexchange.com/questions/350/how-to-reverse-engineer-i2c-and-spi-protocols
+* https://i2cdriver.com/
+==== Components ====
+* https://www.allaboutcircuits.com/textbook/digital/chpt-12/serial-in-serial-out-shift-register/
+* https://www.ti.com/lit/ds/symlink/dac0800.pdf
+=== Pixel Readout ===
+* Timing: http://hamamatsu.magnet.fsu.edu/articles/readoutandframerates.html

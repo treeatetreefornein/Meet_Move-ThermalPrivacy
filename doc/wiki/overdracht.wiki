@@ -1,0 +1,14 @@
+= Verbeter =
+* Video anonimisatie framerate (verzint frames erbij)
+
+- Expand FOV w/ widelens (180)
+    - Apature
+    - Enough Light
+    - Anti deform/warp
+    - Distance
+- Sensor level anonymity
+- Power/price comparison - at the spot GAN vs FM radio
+- Bluetooth Sniffing 
+- Data distribution (radio?)
+    - Unlicensed 868 MHz EU
+    - Few km in city - 15-30 km rural

@@ -1,0 +1,3 @@
+/home/rsk/bhdd/school/meetMove/repo/meetAndMove/code/privacy/videoAnonimisation/build/CMakeFiles/rebuild_cache.dir
+/home/rsk/bhdd/school/meetMove/repo/meetAndMove/code/privacy/videoAnonimisation/build/CMakeFiles/edit_cache.dir
+/home/rsk/bhdd/school/meetMove/repo/meetAndMove/code/privacy/videoAnonimisation/build/CMakeFiles/thermalAnonimisation.dir

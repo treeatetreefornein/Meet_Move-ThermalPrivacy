@@ -1,0 +1,97 @@
+= FLIR Webenar =
+* Slimme steden
+    - Hoe?
+        - AI + Deeplearning
+        - Eerst meten en analyseren -> Wat gebeurt?
+        - Plannen
+        - Ontwikkeling en implementeren -> Formuleer acties
+        - Bewaken en evalueren
+    - Welke uitdagingen bij het plannen slimme stad?
+        - Strategie voor toekomst 
+        - Elke stad heeft hun eigen aanpak/behoeften
+        - Flexibiliteit
+        - Groene lijn door stad: voorrang voor zwakke weggebruikers
+        - Meer dan 1 plek automatiseren
+    - Slimme, groene stad: Fietsers
+        - FLIR camera voorrang 
+        - Snelheid met thermicam2 -> geen wachttijd
+    - Haarlemmermeer TrafiOne:
+        - Voorrang zwakke weggebruiker
+        - Optimaliseren van onnodige wachttijden (CO2)
+        - Langer groen licht wanneer nodig
+    - Slimme stad Brussel
+        - TrafiCam + TrafiCam x-Stream (streamen)
+        - Sensoren geven thermische sensoren door naar 1 punt
+    => Huidige sensoren zijn kleine eilandjes
+=======================================================================================================================(Andere Spreker)
+    - Kunstmatige Intelligentie
+        - TrafiCam & Thermicam AI integratie
+        - Meer data -> Uitbreiding
+        - Beelden geannoteerd ter training
+        - Gebruikt 30fps
+        - Bepaal snelheid, locatie, pad afgelegd
+        - Worldtracker -> Creëer lus, gebruik gevonden informatie
+        - ThermiCam -> Thermisch, TrafiCam -> Visuele sensor => Extra performance (echter uitdaging voor swakke weggebruikers)
+        - Voordelen Thermisch: geen omgevings verlichting nodig. Niet beïnvloedbaar door zon, koplampen of schaduwen. 24/7 in alle weersomstandigheden. Robuust, onafhankelijk van infrastructuur of bomen in de field of view.
+        => Warmte beelden perfect voor thermische camera's
+        - Weersbestendig, dag+nacht DNN, automatische kalibratie via tiltsensor, laag energie verbruik
+        - WiFi voor reistijd en oorsprong/bestemming berekenen
+        - Communicatie: PoE + BPL communicatie
+        - Beveiliging: versleuteling + authenticatie
+        - Toepassingen:
+            - VRI:
+                - Detectie aan stop streep 
+                - Meerdere rijvakken elke richting
+                - Vervang meerdere inductieve lussen wegdek
+                - Bepaal file lengte aan een kruispunt
+                - Integratie met VRI via configureerbare contacten
+            - Data collectie:
+                - WiFi tracking voor reistijd
+                - Tellen + clasificeren voertuigen
+                - Integreer Acyclica cloud platform
+                - Video streaming
+            - VRI Voorspellend:
+                - Real time traject informatie (positie, snelheid, richting)
+                - Real-time data via API to naar toekomstige VRI systemen
+        - Mogelijkheiden Acyclica:
+            - Data fusie
+            - Toegankelijkheid webinterface
+            - Bereken reistijd -> ~Google Map verkeers traject
+            - Vergelijk routes -> Trends, reistijd, vertraging
+        - Data waar en wanneer nodig
+            - Integratie mogelijk met:
+                - Automatische systemen oor verkeersbeheer
+                - Variabele informatieborden
+                - Openbare websites
+                - Software van derden
+            - Waarschuwingen
+                - Cruciale veiligheidsproblemen
+                - Prestaties van de infrastructuur
+                - Verkeersregelaarsstatus
+                - Verzending <1s
+=======================================================================================================================(Andere Spreker)
+    - Slimmere en veiligere kruispunten
+        - Welke snelheid om groen te geven?
+        - Welke verbetering verkeer mogelijk?
+    - Belangrijkste slimme stad:
+        - Flexibiliteit en uitbreidbaarheid
+        - Accurate detectie en beeld validatie
+        - Data leveren in alle weersomstandigheden -> warmte > visuele camera
+        - Real-time data en constante analyse (volledige oplossing, geen eilandjes)
+        - Eco-systeem een slimme stad => Slimme stad = groene stad
+    - ThermiCam geeft alarm als lens geblokkeerd/vervuild wordt (typisch 3-4 jaar)
+* Oplossingen -> Niet aan bod gekomen...
+=======================================================================================================================
+* Vragen
+    - Hoe beschermen jullie persoonsgegevens?
+        -> Geen gezichtsherkenning aan boord, hierdoor geen issues.
+    - AI verwerking in sensor of op 1 punt?
+    - Wat is virtuele lus?
+    - Dieren gedetecteerd als mensen -> confidence?
+    - Lens -> groter bereik? (Welke calibratie)
+    - Metero warme ventilatie roosters?
+Andermans (relevante) vragen:
+    - Kan een volledige file gedetecteerd worden?
+        -> ThermiCam (~150m) heeft verschillende versies tussen lenzen, bv. ingezoomde lens (statisch). Verder andere hoogte nodig.
+    - Meerdere WiFi antennes nodig?
+        -> Camera ziet alleen MAC adres in straal => >1 camera nodig voor bepaling locatie/snelheid.

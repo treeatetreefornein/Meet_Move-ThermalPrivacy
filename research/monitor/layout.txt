@@ -1,0 +1,22 @@
+Introductie
+Requirements
+Onderzoeksvragen
+    - 4G:
+        - Niet future proof (5G) => kortere range
+    - BT/WiFi:
+        - Range
+        - Nodecount
+    - Bestaand:
+        - City of Things
+        - People Radar
+            - Vlak + Weinig Activiteit
+        - GIS
+        - Human Movement Behaviour
+POC
+Test
+    - Design test requirements
+    - Fool it (dier, cardboard, noise, lights)
+Conclusie
+    - Price Comparison (Low-, Mid- & High Cost -> Chosen)
+                        Mid for other considerations
+Reflectie

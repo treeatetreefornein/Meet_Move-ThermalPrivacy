@@ -1,0 +1,109 @@
+    - Meet & Move -
+Public Space Insights
+
+#__________________________________________________________________________________________________________________________
+
+🔴 Inhoud
+- Bedrijf
+- Opdracht
+- Aanpak
+- Issues
+- Next Steps
+
+#__________________________________________________________________________________________________________________________
+
+@img/innosportlabFavProjects.png
+
+#__________________________________________________________________________________________________________________________
+
+@img/xtremePlayground.jpg
+
+@img/overview.png
+
+@img/soccer.png
+
+🟠 Opdracht
+Doel: 
+    - Anonieme beelden thermische camera's
+    - Compatibel pose estimation
+    - 🚶🏃🚴
+
+Wat?
+   1) Anonimisering Software 
+   2) Pose Verifier
+#(Interessante technologie, testen buiten de PC)
+
+#__________________________________________________________________________________________________________________________
+
+#Probleem
+@img/4faces.jpg
+
+#Methoden x3 (HW)
+# !!!!!!! Blur?
+@img/methodeComparison.png
+
+🔵  Aanpak
+   1) Ontwikkel Fase: 
+            Anonimisering Software & Pose Vergelijker
+   2) Onderzoek Fase:
+            Invloed afstand, lens, anonimisering methode, etc.
+
+@img/privacyOverview.png
+
+@img/poseOverview.png
+
+#__________________________________________________________________________________________________________________________
+
+🟢 Bezigheden
+- Doc rewrite x4
+- MicroCap12 circuit simulator
+- Alphapose
+
+Waar nu?
+- Software design: On demand/non-polling Data Flow 
+- Aaneenknopen: MCU -> PC -> Anonimisering
+
+@img/amg8833.png
+
+#__________________________________________________________________________________________________________________________
+
+🟣 Issues
+- Pose Vergelijken < Batch Time?
+    1400 videos * 20fps * 2 videos * #personen * 9-24 points * video duur
+    => Batches & recycle vars (multithreading last resort)
+- OpenPose API/bin?
+- GPU support OpenPose API (video r/w ineens pointer)
+
+@img/homography.png
+
+Thermisch      |    Anononiem Thermisch
+------------------+-----------------
+    Persoon #1 |        p#1
+    p#2             |         p#2
+    p#3             |         -----
+    p#4             |         p#3
+
+#__________________________________________________________________________________________________________________________
+
+🟤 Next Steps
+- Exposure, Noise
+- Koppeling OpenPose
+
+#__________________________________________________________________________________________________________________________
+
+#Uitbreiding
+#* Thermische camera hardware video "playback" simulator
+#* Meerdere beeld verwerking
+#* OpenCV niet op MCU => FFMPEG?
+#* Roterende camera
+
+#__________________________________________________________________________________________________________________________
+
+⚫ Demo
+* Video I/O
+* Video vanuit array
+* Digitization
+
+#__________________________________________________________________________________________________________________________
+
+❓

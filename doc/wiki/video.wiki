@@ -1,0 +1,2 @@
+GStreamer - https://gstreamer.freedesktop.org/features/
+=> Gekozen voor OpenCV

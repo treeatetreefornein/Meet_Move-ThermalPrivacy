@@ -1,0 +1,68 @@
+- Meet & Move -
+ Public Insights
+
+- Inhoud -
+* Aanpak/Visie
+* Update
+* Testen
+* Schedule
+* Doelen
+
+- Aanpak/Visie -
+1. Create Digitization Circuit (specific AMG8833)
+2. Create test setup
+3. Maximize pose, minimize privacy risk
+
+- Update -
+* Fontys groep -> Activiteit
+=> Optimale privacy & pose?
+* Digitization Circuit verschilt per camera 
+    => Test setup using footage from expensive camera
+
+- Testen - Waarom?
+* 8x8px Niet voldoende voor pose
+* Upscale tricky
+
+- Testen - Wat?
+1. Huur camera, film test cases
+    /beelden internet
+2. Playback beelden d.m.v. test setup
+
+- Testen - Hoe?
+* Circuit -> MC12
+* Helper Program (C/C++/Python):
+        Readout visualisation/PC video transmitter
+
+@img/publicInsightsSysteem.png
+
+- Digitization -
+Wanneer onvoldoende anoniem (AP):
+=> Pas Noise, Exposure toe
+
+@img/digitizationGraph.png
+
+@img/designDigitizationCircuit.png
+
+@img/digitizationCircuit.png
+
+- Schedule -
+* AMG besteld
+* MicroCap12/Logisim
+
+@img/amg8833.png
+
+- Doelen -
+M: Privacy Circuit
+S:  - Test setup: PC Video->MCU->Privacy Circuit
+    - Compatible with pose estimation
+C: Thermal video import tool
+W:  - Activiteit bepaling
+    - Modulaire oplossing
+
+- Vragen -
+Which route?
+Logic gates/IC's ||
+VHDL -> Netlist => Generate circuit 
+
+Pitfalls VHDL (FPGA)/Easier migration+testing
+Bereik uitbreiden d.m.v. lens 

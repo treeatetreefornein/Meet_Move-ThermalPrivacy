@@ -1,0 +1,19 @@
+* Dockerfile: https://gist.github.com/sberryman/82a6d13a44f9c4a3bfaf9263b36c92ed
+* Hotfix: 
+    * https://stackoverflow.com/questions/59129812/how-to-avoid-cuda-out-of-memory-in-pytorch
+    * (ISSUE):
+        * https://github.com/MVIG-SJTU/AlphaPose/issues/94
+        * https://github.com/MVIG-SJTU/AlphaPose/issues/94
+* Installation guide: https://leadtosilverlining.blogspot.com/2019/01/alphapose-installation-training-and.html
+
+= Prerequisites = 
+* https://aur.archlinux.org/packages/python-conda/Software
+* https://aur.archlinux.org/packages/anaconda
+* https://repo.anaconda.com/miniconda/
+* Best way to get conda: https://bbs.archlinux.org/viewtopic.php?id=249731
+= Train =
+* https://drive.google.com/file/d/1kQhnMRURFiy7NsdS8EFL-8vtqEXOgECn/view
+* https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/MODEL_ZOO.md
+* https://drive.google.com/file/d/1nlnuYfGNuHWZztQHXwVZSL_FvfE551pA/view
+* https://drive.google.com/file/d/1D47msNOOiJKvPOXlnpyzdKA3k6E97NTC/view
+* http://posefs1.perception.cs.cmu.edu/OpenPose/models/hand/pose_iter_102000.caffemodel

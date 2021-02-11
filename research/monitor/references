@@ -1,0 +1,224 @@
+%T Pose estimation
+%K poseestimation
+%O https://arxiv.org/abs/1611.08050
+
+%T Pose estimation dataset
+%K poseestimationdataset
+%O http://domedb.perception.cs.cmu.edu/
+
+%T Openpose
+%K openpose
+%O https://github.com/CMU-Perceptual-Computing-Lab/openpose
+
+%T Openpose Benchmark
+%K openposebenchmark
+%O https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/media/openpose_vs_competition.png
+
+%T YOLOv3 guide
+%K yolov3
+%O https://heartbeat.fritz.ai/detecting-objects-in-videos-and-camera-feeds-using-keras-opencv-and-imageai-c869fe1ebcdb
+
+%T Radio Pose Estimation
+%K radiopos
+%O https://news.mit.edu/2015/wireless-x-ray-vision-could-power-virtual-reality-smart-homes-hollywood-1028
+
+%T Galileo EU
+%K galileo
+%O https://ec.europa.eu/growth/sectors/space/galileo_en
+
+%T Galileo vs GPS
+%K gpsvsgalileo
+%O https://contagt.com/en/2017/08/test-accuracy-of-galileo-vs-gps/
+
+%T Video Analysis to Detect Suspicious Activity Based on Deep Learning
+%K activityanalysis
+%O https://medium.com/@everisUS/video-analysis-to-detect-suspicious-activity-based-on-deep-learning-fee2032ea14a
+
+%T Bluetooth Range
+%K bluetoothrange
+%O http://www.bluair.pl/bluetooth-range
+
+%T Bluetooth Beacons for Tracking?
+%K bletracking
+%O https://www.accuware.com/blog/bluetooth-beacons-tracking/
+
+%T Technologies Tracking People
+%K trackingtech
+%O https://behavioranalyticsretail.com/technologies-tracking-people/
+
+%T Omron Fast Computer Vision
+%K vision2019
+%O https://www.omron.com/media/2019/11/c1111.html
+
+%T Omron Fast Image Sensing Component 
+%K vision2013
+%O https://www.omron.com/media/press/2013/09/e0917.html
+
+%T Long-Range IR PTZ system
+%K thermalcameras
+%O https://kintronics.com/solutions/ip-camera-systems/network-attached-cameras/long-range-night-vision-ir-ptz-camera/
+
+%T Pixel Technology Explore
+%K imeccamera
+%O https://www.imec-int.com/en/imaging-vision-systems/pixel-technology-explore
+
+%T Sensor Ad- and Disadvantages
+%K sensoradvantages
+%O https://www.intorobotics.com/types-sensors-target-detection-tracking/
+
+%T PinMe
+%K pinme
+%O https://ieeexplore.ieee.org/document/8038870/
+
+%T 5G Speed vs 5G Range
+%K 5grange
+%O https://www.rfwireless-world.com/Terminology/5G-Speed-Vs-5G-Range.html
+
+%T 3G/4G/5G Range
+%K 345range
+%O https://en.wikipedia.org/wiki/Cell_site
+
+%T FInd Your Long Range RFID Tag
+%K longrangerfid
+%O https://gaorfid.com/devices/rfid-tags-by-feature/long-range-rfid-tags/
+
+%T Build a 500m Radio Link for Under $40
+%K buildradiolink
+%O https://www.instructables.com/id/Build-a-500-metre-radio-data-link-for-under-40./
+
+%T Tetracam's Micro-Miniature Multiple Camera Array System
+%K micromca
+%O http://www.tetracam.com/Products-Micro_MCA.htm
+
+%T How Often Does a Cell Phone Ping The Towers? (Alistair Urie's answer)
+%Q Quora
+%K towerping
+%O https://www.quora.com/How-often-does-a-cell-phone-ping-the-towers?share=1
+
+%T Track Your Location Without Using GPS
+%K trackphone
+%O https://www.instructables.com/id/Track-your-location-without-using-GPS-using-LAC-a/
+
+%T The Benefits for Pedestrians
+%K mobili
+%Q Mobilidata
+%O https://mobilidata.be/en/the-benefits/pedestrians
+
+%T Altijd Groen Voor Fietsers Slimmere Verkeerslichten
+%K slimmeverkeerslichten
+%Q IMEC
+%O https://www.imeccityofthings.be/en/blog/altijd-groen-voor-fietsers-slimmere-verkeerslichten-voor-een-betere-mobiliteit
+
+%T Observer Traffic Lichts
+%K observertraffic
+%Q IMEC
+%O https://www.imeccityofthings.be/en/projects/observer-traffic-lights-with-their-own-brain
+
+%T TCI Network
+%K tci
+%O https://www.tci-network.org/
+
+%T 4G Distance From Tower
+%K 4gtowerrange
+%O https://crowdsupport.telstra.com.au/t5/Network-Roaming/4G-distance-from-tower-Explanation-required/td-p/110754
+
+%T Gemiddelde Snelheid Hardlopen
+%Q Gemiddelden.nl
+%K avghardloop
+%O https://gemiddelden.nl/meer-gemiddelden/gemiddelde-snelheid-hardlopen/
+
+%T Gemiddelde Snelheid Lopen
+%Q Gemiddelden.nl
+%K avgloop
+%O https://gemiddelden.nl/snelheid/gemiddelde-snelheid-lopen/
+
+%T Gemiddelde Snelheid Fietsen
+%Q Gemiddelden.nl
+%K avgfiets
+%O https://gemiddelden.nl/snelheid/gemiddelde-snelheid-fietsen/
+
+%T Design of long-range, powerless RFID sensor at 10 GHz
+%K powerlessrfid
+%O https://ieeexplore.ieee.org/document/6612828
+
+%T Long Range RFID Tags
+%Q Metrix
+%K 1500mrfid
+%O https://www.synometrix.com/solutions/long-range-rfid-tags/
+
+%T Eindhoven Open Data
+%K opendata
+%O https://data.eindhoven.nl/explore/
+
+%T Sensor City
+%K sensorcity
+%O http://www.sensorcity.nl/
+
+%T Smart Data City Projects
+%K smartdatacity
+%O https://www.smartdatacity.org/gerelateerde-projecten/
+
+%T Almere Data Capital
+%K almeredatacapital
+%O http://almeredatacapital.nl/
+
+%T ANPR operation in south Ilford leads to nine arrests
+%K southilford
+%D 2020-02-19
+%O https://www.redbridge.gov.uk/news/february-2020/anpr-operation-in-south-ilford-leads-to-nine-arrests/
+
+%T Altijd plek voor Utrechtse fietsen met systeem LumiGuide en netwerkcamera's Axis
+%K utrechtfietsenrek
+%O https://www.axis.com/nl-nl/customer-story/4102
+
+%T Lumi Projects
+%K lumiprojects
+%O https://lumi.guide/projects/
+
+%T Lumi Projects Car Detection System
+%K lumicardetection
+%O https://lumi.guide/smart-parking-management/car-detection-system/
+
+%T License Plate Capture Cameras, License Plate Recognition, LPR Camera
+%K lpccamera
+%O https://www.cctvcamerapros.com/License-Plate-Capture-Cameras-s/283.htm
+
+%T Toeristenstromen Amsterdam in kaart door data social media
+%K socialmediakaart
+%O https://www.smartdatacity.org/toeristenstromen-amsterdam-in-kaart-door-data-social-media/
+
+%T Open Data Principles
+%K opendataprinciples
+%O http://scsk.all.atostechlab.net/files/documentation/Policy%20Instruments/B%5D%20Open%20Data%20Principes%20Eindhoven%20Dutch.pdf
+
+%T Stereo Labs Sense The World In 3d
+%K zed
+%O https://www.stereolabs.com/
+
+%T Tensorflow Pose Estimation
+%K tensorflowposeestimation
+%O https://www.amazon.co.uk/NVIDIA-945-82771-0000-000-Jetson-TX2-Development/dp/B06XPFH939?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-brave-uk-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B06XPFH939
+
+%T NVIDIA 945-82771-0000-000 Jetson TX2 Development Kit
+%Q Amazon
+%K jetsontx2
+%O https://www.amazon.co.uk/NVIDIA-945-82771-0000-000-Jetson-TX2-Development/dp/B06XPFH939?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-brave-uk-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B06XPFH939
+
+%T AVG-guidelines
+%O https://autoriteitpersoonsgegevens.nl/nl/zelf-doen/avg-guidelines
+%K avgguidelines
+https://shop.bsigroup.com/upload/Shop/Download/PAS/PD8101-2014.pdf
+
+https://www.smartdatacity.org/wp-content/uploads/2015/01/Eindrapport-Verkenningen-Roosendaal-Smart-Retail-City-v1.2.pdf
+
+https://www.geopraevent.ch/technologies/radar-people-detection/?lang=en
+
+https://behavioranalyticsretail.com/technologies-tracking-people/
+
+https://www.axis.com/nl-nl/customer-story/4102
+
+https://www.smartdatacity.org/toeristenstromen-amsterdam-in-kaart-door-data-social-media/
+
+%T WB-LYP1000AHC LiFeYPO4
+%K wblyp1000
+%O https://www.ev-power.eu/BatteryPacks/

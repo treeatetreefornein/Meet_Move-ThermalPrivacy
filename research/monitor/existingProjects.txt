@@ -1,0 +1,13 @@
+//People Radar
+- Solar recharge
+- Open/flat space
+- Bad object size estimation
+
+//Human Movement Behaviour
+- Old ~ 2013
+- Combination software + humans
+
+//Utrech Bike Storage
+- Data via POE
+- Data opengesteld: Capacity- available, total, in use, maintenance
+=> Is er een legaal verschil tussen gegevens van mensen, en gegevens van objecten gebruiken?

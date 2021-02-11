@@ -1,0 +1,13 @@
+AVG:
+"Gesteld"
+    - OpenDataGuide: Voorkeur rauwe data publiek te maken #-># dit bij video doen is niet realistisch.
+    - Komen we ermee weg rauw (encrypted) radio signaal publiek te maken?
+    - Bordjes met headsup bij ingang b.v. park ingang voldoende?
+    - OpenData vereist bij thermische camera (gezicht onherkenbaar)?/Bij lichaamsdeel posities wellicht in de toekomst af te leiden wie welke persoon was, nodig?
+    - Tijdelijk open mogelijk?
+    - (Hopelijk nutteloze voor 3e partijen) coordinaten openbaar maken toegestaan?
+    - Wat als in de toekomst mensen herkend kunnen worden op thermische camera, dan wel ineens een probleem?
+
+
+"To-ask"
+AVG onderscheid tussen data persoons' eigendom en persoonsgegevens?

@@ -1,0 +1,11 @@
+C:\Users\billyg\Desktop\TimerApplicatie\SportsTimer Applicatie\bin\Release\SportsTimer Applicatie.exe.config
+C:\Users\billyg\Desktop\TimerApplicatie\SportsTimer Applicatie\bin\Release\SportsTimer Applicatie.exe
+C:\Users\billyg\Desktop\TimerApplicatie\SportsTimer Applicatie\bin\Release\SportsTimer Applicatie.pdb
+C:\Users\billyg\Desktop\TimerApplicatie\SportsTimer Applicatie\obj\Release\SportsTimer Applicatie.csprojAssemblyReference.cache
+C:\Users\billyg\Desktop\TimerApplicatie\SportsTimer Applicatie\obj\Release\SportsTimer_Applicatie.Form1.resources
+C:\Users\billyg\Desktop\TimerApplicatie\SportsTimer Applicatie\obj\Release\SportsTimer_Applicatie.Form2.resources
+C:\Users\billyg\Desktop\TimerApplicatie\SportsTimer Applicatie\obj\Release\SportsTimer_Applicatie.Properties.Resources.resources
+C:\Users\billyg\Desktop\TimerApplicatie\SportsTimer Applicatie\obj\Release\SportsTimer Applicatie.csproj.GenerateResource.cache
+C:\Users\billyg\Desktop\TimerApplicatie\SportsTimer Applicatie\obj\Release\SportsTimer Applicatie.csproj.CoreCompileInputs.cache
+C:\Users\billyg\Desktop\TimerApplicatie\SportsTimer Applicatie\obj\Release\SportsTimer Applicatie.exe
+C:\Users\billyg\Desktop\TimerApplicatie\SportsTimer Applicatie\obj\Release\SportsTimer Applicatie.pdb

@@ -1,0 +1,52 @@
+= Docker =
+* File https://gist.github.com/sberryman/82a6d13a44f9c4a3bfaf9263b36c92ed
+    * # docker build -f Dockerfile.yml -t alphapose .
+* https://blog.jayway.com/2015/03/21/a-not-very-short-introduction-to-docker/
+* https://towardsdatascience.com/build-a-docker-container-with-your-machine-learning-model-3cf906f5e07e
+* https://medium.com/analytics-vidhya/deploy-your-machine-learning-model-on-docker-ee2b931e133c
+* NVIDIA https://github.com/NVIDIA/nvidia-docker
+* Tut https://www.youtube.com/watch?v=JprTjTViaEA
+* Linux, Mac, Windows Display GUI https://cuneyt.aliustaoglu.biz/en/running-gui-applications-in-docker-on-windows-linux-mac-hosts/
+* Cheat-Sheet https://github.com/wsargent/docker-cheat-sheet#dockerfile
+* Share data Host<->Container https://www.digitalocean.com/community/tutorials/how-to-share-data-between-the-docker-container-and-the-host
+== Tutorials ==
+* https://awesome-docker.netlify.app/#good-tips
+* https://wiki.archlinux.org/index.php/docker#Usage
+* https://github.com/NVIDIA/nvidia-docker#quickstart
+
+= VM =
+* https://unix.stackexchange.com/questions/202396/manjaro-module-vboxdrv-not-found
+* https://wiki.archlinux.org/index.php/VirtualBox#Load_the_VirtualBox_kernel_modules
+
+= ML =
+== Pose ==
+* [[Alphapose]]
+* alt https://github.com/PJunhyuk/people-counting-pose
+* Openpose https://github.com/CMU-Perceptual-Computing-Lab/openpose
+== Depth ==
+* Depthmap https://arxiv.org/pdf/1812.07179.pdf
+* Stereo https://www.sciencedirect.com/science/article/pii/S1474667016458982
+    * ZED2 + Lidar https://blogs.nvidia.com/blog/2019/02/08/popcorn-delivery-robot/
+* Manual: https://www.tandfonline.com/doi/pdf/10.1080/19475683.2019.1704870
+== PeopleCount ==
+* https://v-count.com/solutions/people-counting/
+* https://www.trafsys.com/hardware/
+== Point Based Cloud ==
+* https://stanford.edu/~rqi/pointnet/
+
+= BT =
+https://www.linkedin.com/pulse/20140606135907-49996066-bluetooth-proximity-marketing-how-can-retailers-benefit
+
+= Move =
+== Public data analytics ==
+* https://www2.deloitte.com/us/en/insights/industry/public-sector/iot-in-smart-airports.html
+
+= SW =
+* Miniconda https://repo.anaconda.com/miniconda/
+
+= Move =
+Avoid IR Glare https://www.psn-web.net/ssbu-t/Support/To_avoid_Reflected_Glare.pdf
+Radar tracker:
+    * https://www.geopraevent.ch/technologies/radar-people-detection/?lang=en
+    * https://navtechradar.com/explore/vehicle-and-pedestrian-tracking/
+DrawIO https://app.diagrams.net/#G1QNjVEqa0IB_fDR82tWsFQpBCJXw7dSNC
